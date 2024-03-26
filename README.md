@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraErbismann
-- 👀 I’m interested in UX, UI and HCI
-- 🌱 I’m currently a first year BBA student at Haaga-Helia fir Business Information Technology.
+- 👀 I’m interested in UX, UI, and front-end development
+- 🌱 I’m currently a second year BBA student at Haaga-Helia fir Business Information Technology.
 - 💞️ I’m new to Information Technology and really looking forward to learning more about Front end development. 
 
 <!---
