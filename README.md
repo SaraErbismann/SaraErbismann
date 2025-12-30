@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraErbismann
 - 👀 Interested in UX, UI, and front-end development
 - 🌱 Currently a final year BBA student at Haaga-Helia fir Business Information Technology.
-- ✨ HAve been working as a junior full-stack developer since August 2024 
+- ✨ Have been working as a junior full-stack developer since August 2024 
 - 💞️ New to Information Technology and really looking forward to learning more about Front end development. 
 
 <!---
